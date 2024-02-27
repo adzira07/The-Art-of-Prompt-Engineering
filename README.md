@@ -10,5 +10,9 @@ The Art of Prompt Engineering is a Cognitive Class AI from IBM that teaches the 
 - Mentor  : Cindy Febriani
 - Program : IBM Advance AI
 
+# Tech Stack 
+- Jupyter
+- Python
+
 
 
